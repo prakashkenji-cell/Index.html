@@ -1,6 +1,7 @@
 # Index.html
-HTML5 project 
 <!DOCTYPE.html>
  <html>
-    <title> GW(GAME WORLD </title>
+    <title> GW(GAME WORLD)</title>
  </html>
+ <body> 
+   <H1>GAME WORLD</H1>
