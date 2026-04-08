@@ -19,4 +19,14 @@
         <li>Brain puzzle games</li>
       </ol>
    <H3>Action games---</H3>
+      <p>Action games are games where players must react quickly using hand-eye coordination, timing, and precision. You’re usually fighting enemies, dodging attacks, or completing intense missions.</p>
+<h4>Main Features</h4>
+  <ul>
+    <li>Fast-paced gameplay (no waiting, constant movement)</li>
+    <li>Combat system (guns, swords, powers)</li>
+    <li>Skill-based (reflexes matter more than thinking)</li>
+    <li>Levels or missions to complete
+Boss fights (strong enemies at the end)</li> 
+   </ul> 
+      </p>
  </html>
