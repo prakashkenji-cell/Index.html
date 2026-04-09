@@ -39,4 +39,17 @@ Exploration (open worlds or detailed environments)</li>
 Choices & consequences (your decisions matter)</li>
       </li>Slower pace compared to action games</li>
     </ul>
+  <H3>action+adventure---</H3>
+   <p>Action-adventure games mix:
+⚔️ Action → fighting, shooting, skills
+🌍 Adventure → story, exploration, missions
+👉 So you <b>fight enemies AND explore a world with a story</b></p>
+ <h4>Main Features</h4>
+   <ul> 
+      <li>Open world or semi-open maps
+Story-based missions</li>
+<li>Combat (guns / swords / powers)
+Side quests & secrets.</li>
+<li>Character progression (skills, upgrades)</li>
+   </ul>
  </html>
