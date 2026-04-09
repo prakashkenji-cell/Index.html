@@ -29,4 +29,14 @@
 Boss fights (strong enemies at the end)</li> 
    </ul> 
       </p>
+  <H3>adventure game---</H3>
+    <p>Adventure games focus on narrative (story), solving puzzles, and exploring worlds. Instead of fast combat, you progress by making decisions, interacting with characters, and uncovering secrets.</p>
+  <h4>Main Features</h4>
+   <ul>
+      <li>Strong story & characters
+Exploration (open worlds or detailed environments)</li>
+      <li>Puzzles & problem-solving
+Choices & consequences (your decisions matter)</li>
+      </li>Slower pace compared to action games</li>
+    </ul>
  </html>
