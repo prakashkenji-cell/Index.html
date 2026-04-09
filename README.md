@@ -4,7 +4,7 @@
      <head>
        <title> GW(GAME WORLD)</title>
      </head>
- <body=Style"background-color: powderblue;"
+ <body=Style"background-color: powderblue;">
    <H1>GAME WORLD</H1>
     <p><b>WHICH GAME DO YOU LIKE?</b></P> 
       <ol> 
