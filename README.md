@@ -34,22 +34,22 @@ Boss fights (strong enemies at the end)</li>
   <h4>Main Features</h4>
    <ul>
       <li>Strong story & characters
-Exploration (open worlds or detailed environments)</li>
+Exploration (open worlds or detailed environments).</li>
       <li>Puzzles & problem-solving
-Choices & consequences (your decisions matter)</li>
-      </li>Slower pace compared to action games</li>
+Choices & consequences (your decisions matter).</li>
+      </li>Slower pace compared to action games.</li>
     </ul>
   <H3>action+adventure---</H3>
    <p><b>Action-adventure games mix:</b></p>
-<p>⚔️ Action → fighting, shooting, skills</p>
-<p>🌍 Adventure → story, exploration, missions</p>
-<p>👉 So you <b>fight enemies AND explore a world with a story</b></p>
+<p>⚔️ Action → fighting, shooting, skills.</p>
+<p>🌍 Adventure → story, exploration, missions.</p>
+<p>👉 So you <b>fight enemies AND explore a world with a story.</b></p>
  <h4>Main Features</h4>
    <ul> 
       <li>Open world or semi-open maps
-Story-based missions</li>
+Story-based missions.</li>
 <li>Combat (guns / swords / powers)
 Side quests & secrets.</li>
-<li>Character progression (skills, upgrades)</li>
+<li>Character progression (skills, upgrades).</li>
    </ul>
  </html>
