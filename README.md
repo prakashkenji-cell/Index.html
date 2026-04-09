@@ -40,10 +40,10 @@ Choices & consequences (your decisions matter)</li>
       </li>Slower pace compared to action games</li>
     </ul>
   <H3>action+adventure---</H3>
-   <p>Action-adventure games mix:
-⚔️ Action → fighting, shooting, skills
-🌍 Adventure → story, exploration, missions
-👉 So you <b>fight enemies AND explore a world with a story</b></p>
+   <p><b>Action-adventure games mix:</b></p>
+<p>⚔️ Action → fighting, shooting, skills</p>
+<p>🌍 Adventure → story, exploration, missions</p>
+<p>👉 So you <b>fight enemies AND explore a world with a story</b></p>
  <h4>Main Features</h4>
    <ul> 
       <li>Open world or semi-open maps
